@@ -1,0 +1,17 @@
+# Ambiente Virtual
+.venv/
+venv/
+env/
+
+# Python (Arquivos temporários compilados)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Streamlit e Configurações Locais
+.streamlit/runtime/
+.idea/
+.vscode/
+*.swp

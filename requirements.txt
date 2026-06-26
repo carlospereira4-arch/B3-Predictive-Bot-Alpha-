@@ -1,0 +1,20 @@
+# Core Framework & Web UI
+streamlit>=1.30.0
+
+# Market Data APIs
+yfinance>=0.2.35
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Data Engineering & Mathematics
+pandas>=2.1.0
+numpy>=1.26.0
+
+# Technical Analysis Indicators
+pandas-ta>=0.3.14b0
+
+# Machine Learning & Intelligence
+scikit-learn>=1.3.0
+
+# Data Visualization
+plotly>=5.18.0
